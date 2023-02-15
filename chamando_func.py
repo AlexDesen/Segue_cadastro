@@ -1,5 +1,4 @@
-from FUNCIONALIDADE.cadastrando import nome_cpf
-from FUNCIONALIDADE.cadastrando import idade
+from FUNCIONALIDADE.cadastrando import nome_cpf,idade
 
 print("=============================")
 print ("1 - Para sair do programa.")
