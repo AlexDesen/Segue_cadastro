@@ -1,4 +1,5 @@
 from FUNCIONALIDADE.cadastrando import nome_cpf
+from FUNCIONALIDADE.cadastrando import idade
 
 print("=============================")
 print ("1 - Para sair do programa.")
@@ -13,5 +14,6 @@ if inicio == 1:
 
 elif inicio == 2:
     nome_cpf()
+    idade()
 
 
