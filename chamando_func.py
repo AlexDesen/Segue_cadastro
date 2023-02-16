@@ -1,4 +1,8 @@
+
 from FUNCIONALIDADE.cadastrando import nome_cpf,idade #tentativa de forçamento de conflito
+
+print()
+
 print("=============================")
 print ("1 - Para sair do programa.")
 print("2 - Para realizar o cadastro.")
